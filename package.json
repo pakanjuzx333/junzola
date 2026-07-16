@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "YOUR_PACKAGE_NAME": "github:OWNER/REPO"
+    "test": "github.com/pakanjuzx333/junzola"
   }
 }
