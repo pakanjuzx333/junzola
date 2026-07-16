@@ -1,5 +1,8 @@
-{
-  "scripts": {
-    "start": "node index.js"
-  }
-}
+# Junzola
+
+Node.js application.
+
+## Install
+
+```bash
+npm install
