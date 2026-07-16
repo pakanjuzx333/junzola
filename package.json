@@ -3,6 +3,6 @@
   "version": "1.0.0",
   "private": true,
   "dependencies": {
-    "test": "github.com/pakanjuzx333/junzola"
+    "test": "git+https://github.com/pakanjuzx333/junzola.git"
   }
 }
